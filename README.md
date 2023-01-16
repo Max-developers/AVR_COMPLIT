@@ -19,9 +19,11 @@
 После того как всё установленно запускаем саму программу из консоли:
 
 Выбираем католог где хранится программа
+
 ![screen3](https://user-images.githubusercontent.com/36957591/212603487-926f1dac-b13b-4b29-b947-32fbe6fd873d.png)
 
 Запускаем программу
+
 ![screen4](https://user-images.githubusercontent.com/36957591/212603519-874d790a-afbf-45b2-882b-086f533cfec1.png)
 
 
